@@ -1,0 +1,12 @@
+.side-div {
+  justify-content: left;
+  min-height: 80vh;
+  display: flex;
+  flex: 0 0 30%;
+  position: relative;
+  max-width: 991px;
+  margin: 5% auto;
+}
+.paint-tools-div {
+  width: 100%;
+}
